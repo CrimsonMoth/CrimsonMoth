@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @CrimsonMoth
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Aleksandr</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I'm a novice in IT-Field</h3>
 - 👀 I’m interested in new career
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
